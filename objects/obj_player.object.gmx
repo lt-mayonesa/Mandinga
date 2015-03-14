@@ -339,6 +339,8 @@ if(wasOnGround &amp;&amp; !place_meeting(x, y + 1, obj_tile)) hspd /= 2;
 
 wasOnGround = place_meeting(x, y + 1, obj_tile);
 
+
+/* HOLA GIL */
 </string>
           </argument>
         </arguments>
